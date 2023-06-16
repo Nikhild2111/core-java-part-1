@@ -7,6 +7,7 @@ public class Student {
     String collegename;
 
 
+
     //methods or behaviour or actions
 
     void study(){
@@ -24,10 +25,11 @@ public class Student {
 
 }
 
-
 class Example{
 
+
     public static void main(String[] args) {
+
         //Object is an entity of class
         //fields for nikhil
         Student nikhil = new Student();
@@ -52,7 +54,5 @@ class Example{
         sahil.study();
         sahil.play();
         sahil.commute();
-
-
     }
 }
