@@ -1,4 +1,5 @@
 public class Student {
+
     String name;
     int id;
     int rollNum;
@@ -33,7 +34,6 @@ public class Student {
     public void commute(){
         System.out.println("Student"+this.name + " is commuting");
     }
-
 
 
     @Override

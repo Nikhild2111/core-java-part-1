@@ -1,4 +1,5 @@
 public class Employee {
+
     //attributes or fields
     String name;
     int id;
@@ -78,6 +79,7 @@ public class Employee {
     void displayObjectAndMessage(){
         System.out.println( "Hello" + this.name);
         System.out.println(this.id + "\n" + this.salary + "\n" + this.gender + "\n" +this.company + "\n" + this.address + "\n" + this.phoneNo);
+
     }
 }
 
