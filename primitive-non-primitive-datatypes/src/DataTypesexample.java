@@ -40,6 +40,6 @@ public class DataTypesexample {
         System.out.println("char Max :"+ Byte.MAX_VALUE);
 
         System.out.println("bool  : "+bool);
-    }
 
+    }
 }

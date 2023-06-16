@@ -8,6 +8,7 @@ public class Student {
 
 
 
+
     //methods or behaviour or actions
 
     void study(){
@@ -22,8 +23,8 @@ public class Student {
         System.out.println(this.name + " is commuting");
     }
 
-
 }
+
 
 class Example{
 
@@ -54,5 +55,6 @@ class Example{
         sahil.study();
         sahil.play();
         sahil.commute();
+
     }
 }
