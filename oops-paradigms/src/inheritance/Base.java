@@ -1,4 +1,4 @@
-package inheritance.que;
+package inheritance;
 
 public class Base {
     public Base(){

@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.question;
 
 //Parent class or base class or super class.
 /*
@@ -7,11 +7,15 @@ in a common class that we will call as base class. All similar classes will
 extend/inherit the base class
  */
 
+import java.util.Arrays;
+
 public class Car {
     String brandName;
     String yearOfMan;
     int cc;
     boolean isPetrol;
+
+    Door[] doors;
 
     public Car(){
         System.out.println(this.getClass().getName() + " Called ");
@@ -23,6 +27,14 @@ public class Car {
         this.yearOfMan = yearOfMan;
         this.cc = cc;
         this.isPetrol = isPetrol;
+    }
+
+    public Car(String brandName, String yearOfMan, int cc, boolean isPetrol, Door[] doors) {
+        this.brandName = brandName;
+        this.yearOfMan = yearOfMan;
+        this.cc = cc;
+        this.isPetrol = isPetrol;
+        this.doors = doors;
     }
 
     public String getBrandName() {
@@ -57,6 +69,13 @@ public class Car {
         isPetrol = petrol;
     }
 
+    public Door[] getDoors() {
+        return doors;
+    }
+
+    public void setDoors(Door[] doors) {
+        this.doors = doors;
+    }
 
     @Override
     public String toString() {
@@ -65,6 +84,7 @@ public class Car {
                 ", yearOfMan='" + yearOfMan + '\'' +
                 ", cc=" + cc +
                 ", isPetrol=" + isPetrol +
+                ", doors=" + Arrays.toString(doors) +
                 '}';
     }
 }

@@ -1,4 +1,7 @@
-package inheritance.que;
+package inheritance;
+
+import inheritance.Child1;
+import inheritance.Child2;
 
 public class Driver {
     public static void main(String[] args) {
