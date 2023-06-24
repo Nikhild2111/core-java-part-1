@@ -1,4 +1,4 @@
-package inheritance.question;
+package inheritance;
 
 public class Wheel {
     int size;

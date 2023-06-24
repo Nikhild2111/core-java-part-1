@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.question;
 
 public class Base {
     public Base(){

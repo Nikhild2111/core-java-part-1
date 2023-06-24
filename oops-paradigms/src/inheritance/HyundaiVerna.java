@@ -1,8 +1,8 @@
-package inheritance.question;
+package inheritance;
 
 //Child class or derived class or sub class
 
-import inheritance.question.Car;
+import inheritance.Car;
 
 public class HyundaiVerna extends Car {
 //    String brandName;

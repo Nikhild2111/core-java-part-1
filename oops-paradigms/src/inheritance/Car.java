@@ -1,4 +1,4 @@
-package inheritance.question;
+package inheritance;
 
 //Parent class or base class or super class.
 /*

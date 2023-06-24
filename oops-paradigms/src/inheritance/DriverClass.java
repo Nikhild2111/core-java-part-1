@@ -1,4 +1,4 @@
-package inheritance.question;
+package inheritance;
 
 public class DriverClass {
     public static void main(String[] args) {

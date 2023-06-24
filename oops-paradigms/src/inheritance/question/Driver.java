@@ -1,7 +1,7 @@
-package inheritance;
+package inheritance.question;
 
-import inheritance.Child1;
-import inheritance.Child2;
+import inheritance.question.Child1;
+import inheritance.question.Child2;
 
 public class Driver {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package inheritance;
+package inheritance.question;
 
-import inheritance.Base;
+import inheritance.question.Base;
 
 public class Child1 extends Base {
     public Child1() {

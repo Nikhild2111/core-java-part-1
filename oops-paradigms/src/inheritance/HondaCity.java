@@ -1,11 +1,8 @@
-package inheritance.question;
+package inheritance;
 
 //extends/inheritance  ->Is a relationship -> Hondacity Is a Car
 //composition -> Has a Relationship -> Hondacity has a Wheel
 //Child class or derived class or Sub class
-
-import inheritance.question.Car;
-import inheritance.question.Wheel;
 
 public class HondaCity extends Car {
 //    String brandName;
