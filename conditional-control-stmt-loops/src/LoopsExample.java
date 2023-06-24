@@ -37,5 +37,6 @@ public class LoopsExample {
             j--;
         }while (j>=1 /*condition checking*/);
 
+
     }
 }
