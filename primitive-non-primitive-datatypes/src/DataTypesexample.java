@@ -41,5 +41,6 @@ public class DataTypesexample {
 
         System.out.println("bool  : "+bool);
 
+
     }
 }
