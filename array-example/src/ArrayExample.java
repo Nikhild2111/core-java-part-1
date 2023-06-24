@@ -15,6 +15,7 @@ public class ArrayExample {
         for (String nameofFruit : fruits) {
             System.out.println(nameofFruit);
 
+
         }
     }
 }
