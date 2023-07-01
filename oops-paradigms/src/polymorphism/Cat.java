@@ -1,7 +1,7 @@
 package polymorphism;
 
 /*
- Method overriding means having another method is child class with same signature
+ Method overriding means having another method in child class with same signature
  Method overriding means providing different method definition.
  What is some signature -
     - The number of parameters must be same
