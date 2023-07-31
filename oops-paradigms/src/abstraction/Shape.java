@@ -2,5 +2,5 @@ package abstraction;
 
 //
 
-public class Shape {
+public interface Shape {
 }
