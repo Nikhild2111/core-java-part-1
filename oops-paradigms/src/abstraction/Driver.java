@@ -15,5 +15,12 @@ public class Driver {
         rectangle.draw();
         System.out.println("Rectangle area : " + rectangle.calculation());
 
+
+        Shape2 triangle = new Triangle(10,10);
+
+        triangle.draw();
+        System.out.println("Triangle area : " + triangle.calculation());
+        triangle.color();
+
     }
 }
