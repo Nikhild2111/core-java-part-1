@@ -1,6 +1,6 @@
-package inheritance;
+package inheritance.example;
 
-import inheritance.Car;
+import inheritance.example.Car;
 
 public class SkodaSlavia extends Car {
 //    String brandName;

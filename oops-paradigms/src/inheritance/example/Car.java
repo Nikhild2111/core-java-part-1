@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.example;
 
 //Parent class or base class or super class.
 /*

@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance.example;
 
 //extends/inheritance  ->Is a relationship -> Hondacity Is a Car
 //composition -> Has a Relationship -> Hondacity has a Wheel
