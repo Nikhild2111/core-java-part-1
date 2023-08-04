@@ -1,4 +1,4 @@
-package multipleinheritance;
+package inheritance.multipleinheritance;
 
 public class A {
     void displayA(){

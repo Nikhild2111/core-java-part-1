@@ -1,4 +1,4 @@
-package multipleinheritance;
+package inheritance.multipleinheritance;
 
 /*
 Example of multiple inheritance where one class extends
