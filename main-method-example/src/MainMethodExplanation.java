@@ -10,6 +10,7 @@ public class MainMethodExplanation {
        () - is required for each method
        string[] args - arguments to main - String is Data type and String[] -. this is string array
      */
+
     public static void main(String[] args) {
         System.out.println("Main method executed");
         sayHello("Nikhil");
