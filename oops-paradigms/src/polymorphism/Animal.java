@@ -8,4 +8,5 @@ public class Animal {
     void run(String msg){
         System.out.println("Animal is running"+ msg);
     }
+
 }
