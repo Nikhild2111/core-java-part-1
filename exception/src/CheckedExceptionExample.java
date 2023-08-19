@@ -13,7 +13,7 @@ public class CheckedExceptionExample {
 
 //        try {
 
-        FileReader fileReader = new FileReader(":\\JAVA programs\\core-java-part-1\\exception\\src\\javaDoc.txt");
+        FileReader fileReader = new FileReader("C:\\JAVA programs\\core-java-part-1\\exception\\src\\javaDoc.txt");
         BufferedReader bufferedReader = new BufferedReader(fileReader);
 
         for (int i = 0; i < 10; i++){
