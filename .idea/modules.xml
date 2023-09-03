@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/constructor-in-java/constructor-in-java.iml" filepath="$PROJECT_DIR$/constructor-in-java/constructor-in-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/core-java-part-1.iml" filepath="$PROJECT_DIR$/core-java-part-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum.example/enum.example.iml" filepath="$PROJECT_DIR$/enum.example/enum.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equals-and-hashcode-example/equals-and-hashcode-example.iml" filepath="$PROJECT_DIR$/equals-and-hashcode-example/equals-and-hashcode-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner-classes-and-anonymous-class/inner-classes-and-anonymous-class.iml" filepath="$PROJECT_DIR$/inner-classes-and-anonymous-class/inner-classes-and-anonymous-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/loose-and-tight-coupling/loose-and-tight-coupling.iml" filepath="$PROJECT_DIR$/loose-and-tight-coupling/loose-and-tight-coupling.iml" />
