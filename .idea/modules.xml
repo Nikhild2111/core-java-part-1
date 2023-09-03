@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/primitive-non-primitive-datatypes/primitive-non-primitive-datatypes.iml" filepath="$PROJECT_DIR$/primitive-non-primitive-datatypes/primitive-non-primitive-datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/read-write-from-console/read-write-from-console.iml" filepath="$PROJECT_DIR$/read-write-from-console/read-write-from-console.iml" />
       <module fileurl="file://$PROJECT_DIR$/string-string-builder-string-buffer/string-string-builder-string-buffer.iml" filepath="$PROJECT_DIR$/string-string-builder-string-buffer/string-string-builder-string-buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper-classes-boxing-unboxing/wrapper-classes-boxing-unboxing.iml" filepath="$PROJECT_DIR$/wrapper-classes-boxing-unboxing/wrapper-classes-boxing-unboxing.iml" />
     </modules>
   </component>
 </project>
