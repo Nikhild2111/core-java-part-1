@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/equals-and-hashcode-example/equals-and-hashcode-example.iml" filepath="$PROJECT_DIR$/equals-and-hashcode-example/equals-and-hashcode-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner-classes-and-anonymous-class/inner-classes-and-anonymous-class.iml" filepath="$PROJECT_DIR$/inner-classes-and-anonymous-class/inner-classes-and-anonymous-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-generics/java-generics.iml" filepath="$PROJECT_DIR$/java-generics/java-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/loose-and-tight-coupling/loose-and-tight-coupling.iml" filepath="$PROJECT_DIR$/loose-and-tight-coupling/loose-and-tight-coupling.iml" />
       <module fileurl="file://$PROJECT_DIR$/main-method-example/main-method-example.iml" filepath="$PROJECT_DIR$/main-method-example/main-method-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/mutable-immutable/mutable-immutable.iml" filepath="$PROJECT_DIR$/mutable-immutable/mutable-immutable.iml" />
