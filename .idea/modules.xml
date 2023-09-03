@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/main-method-example/main-method-example.iml" filepath="$PROJECT_DIR$/main-method-example/main-method-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/mutable-immutable/mutable-immutable.iml" filepath="$PROJECT_DIR$/mutable-immutable/mutable-immutable.iml" />
       <module fileurl="file://$PROJECT_DIR$/oops-paradigms/oops-paradigms.iml" filepath="$PROJECT_DIR$/oops-paradigms/oops-paradigms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pass-by-value-and-pass-by-reference/pass-by-value-and-pass-by-reference.iml" filepath="$PROJECT_DIR$/pass-by-value-and-pass-by-reference/pass-by-value-and-pass-by-reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/primitive-non-primitive-datatypes/primitive-non-primitive-datatypes.iml" filepath="$PROJECT_DIR$/primitive-non-primitive-datatypes/primitive-non-primitive-datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/read-write-from-console/read-write-from-console.iml" filepath="$PROJECT_DIR$/read-write-from-console/read-write-from-console.iml" />
       <module fileurl="file://$PROJECT_DIR$/string-string-builder-string-buffer/string-string-builder-string-buffer.iml" filepath="$PROJECT_DIR$/string-string-builder-string-buffer/string-string-builder-string-buffer.iml" />
