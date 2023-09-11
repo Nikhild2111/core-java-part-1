@@ -3,6 +3,7 @@ package functional.interface1;
 //functional interface is an interface that has at most one abstract method -> exhibits only one feature.
 //it can have any number static methods
 //it can also have any number of default methods
+
 @FunctionalInterface
 public interface ExampleInterface {
     int randomCalculate(int a, int b);//method declaration for abstract method

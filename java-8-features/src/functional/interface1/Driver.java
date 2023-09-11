@@ -16,6 +16,7 @@ class Test implements ExampleInterface{
 //        ExampleInterface.super.print2();
 //    }
 }
+
 public class Driver {
     public static void main(String[] args) {
 
@@ -41,6 +42,7 @@ public class Driver {
                 ExampleInterface.super.print2();
             }
         };
+
         instanceUsingAnonymousClass.print(100);
         instanceUsingAnonymousClass.print2();
         instanceUsingAnonymousClass.randomCalculate(10,20);
