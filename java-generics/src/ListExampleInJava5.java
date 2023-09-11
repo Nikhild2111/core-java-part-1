@@ -20,14 +20,15 @@ public class ListExampleInJava5 {
         primeNum.add(2);
         primeNum.add(3);
         primeNum.add(5);
+
         for (int i : primeNum) {
             System.out.println("Prime num i : "+ i);
         }
-//        primeNum.add("Vikram");
+//        primeNum.add("Nikhil");
 
         List<Student> studentList = new ArrayList<>();
-        studentList.add(new Student("Nikhil", 28, 100));
-        studentList.add(new Student("Sahil", 22, 101));
+        studentList.add(new Student("Nikhil", 23, 100));
+        studentList.add(new Student("Sahil", 25, 101));
         studentList.add(new Student("Karan", 21, 102));
         studentList.add(new Student("Ashish", 23, 103));
 
