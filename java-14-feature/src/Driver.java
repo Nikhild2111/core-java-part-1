@@ -43,7 +43,6 @@ record Student(String name, int age) {
     }
 }
 
-
 public class Driver {
     public static void main(String[] args) {
         Student student1 = new Student("Nikhil",23);
