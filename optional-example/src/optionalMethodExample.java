@@ -2,7 +2,7 @@ import java.util.Optional;
 
 public class optionalMethodExample {
     public static void main(String[] args) throws Exception {
-        String name = "ViKrAm";
+        String name = "Nikhil";
 
         Optional<String> stringOptional = Optional.ofNullable(name);
 

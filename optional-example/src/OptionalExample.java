@@ -12,7 +12,7 @@ ifPresent() (performs an action if a value is present).
 
 public class OptionalExample {
     public static void main(String[] args) {
-        String name = "Vikram";
+        String name = "Nikhil";
 
         if (name != null && !name.isEmpty() && name.length() > 4){
             System.out.println("Name is not null and not empty and length is greater than 4");
@@ -29,6 +29,7 @@ public class OptionalExample {
         3. empty -> returns an Optional with no value inside it
          */
 
+
         Optional<String> emptyOptional = Optional.empty();
         System.out.println("Empty Optional is created with empty object inside it - "+ emptyOptional.isPresent());
         System.out.println("Empty Optional is created with empty object inside it - "+ emptyOptional.isEmpty());
@@ -42,16 +43,14 @@ public class OptionalExample {
             System.out.println("Using Optional - Either name is null or name is empty or length is smaller than or equal to 4");
         }
 
-        Optional<String> optionalString2 = Optional.of("Vikram");
+
+        Optional<String> optionalString2 = Optional.of("Nikhil");
         //With the help of Optional, null checks can be removed from program.
         if (optionalString2.isPresent() && optionalString2.get().length() > 4){
             System.out.println("Using Optional - Name is not null and not empty and length is greater than 4");
         } else {
             System.out.println("Using Optional - Either name is null or name is empty or length is smaller than or equal to 4");
         }
-
-
-
 
 
     }
